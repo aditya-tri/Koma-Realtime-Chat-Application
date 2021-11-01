@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Realtime chat application using chatengine.io
 
 Website Link https://koma-chat.netlify.app/
 
