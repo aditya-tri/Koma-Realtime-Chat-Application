@@ -1,4 +1,4 @@
-# Realtime chat application using chatengine.io
+# Realtime chat application
 
 Website Link https://koma-chat.netlify.app/
 
